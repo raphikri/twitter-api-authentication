@@ -15,6 +15,9 @@ gunicorn = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 flask-script = "*"
+flask-login = "*"
+flask-restx = "*"
+flask-httpauth = "*"
 
 [requires]
 python_version = "3.7"
